@@ -1,1 +1,1 @@
-
+MNIST.mat file must be converted using the macros from the original URL.
