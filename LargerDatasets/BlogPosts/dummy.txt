@@ -1,1 +1,1 @@
-
+blogData_train.csv must be downloaded from UCI
