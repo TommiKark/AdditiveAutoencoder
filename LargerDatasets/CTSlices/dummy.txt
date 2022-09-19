@@ -1,1 +1,1 @@
-
+slice_localization_data.csv must be downloaded from UCI.
