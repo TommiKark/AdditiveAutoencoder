@@ -1,1 +1,1 @@
-
+FashionMNIST dataset must be downloaded from github and processed in MAT-format with MNIST tools. 
